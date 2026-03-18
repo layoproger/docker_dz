@@ -11,3 +11,4 @@ exit
 docker stats my_redis
 CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O     PIDS
 28cdd014a552   my_redis   0.24%     30.7MiB / 1.608GiB   1.86%     1.16kB / 126B   54.2MB / 0B   6
+1
