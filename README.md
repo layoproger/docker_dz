@@ -8,3 +8,12 @@
 # git clone https://github.com/AlariCode/docker-demo.git
 # npm i -это устанавливает все зависимости
 
+# сборка dockerfile
+
+# FROM node:25
+# WORKDIR /app
+# ADD . .
+# RUN npm install
+# RUN npm run build api
+# RUN RUN echo "проверка" > test.txt
+# CMD ["node","./dist/apps/api/main.js"]
